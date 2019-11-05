@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 
 # Site Settings
-locale                   : "en-Kr"
+locale                   : "en-KR"
 title                    : "더치 - 더 정확한 위치찾기"
 title_separator          : "-"
 subtitle                 : "더치 - 더 정확한 위치찾기"
