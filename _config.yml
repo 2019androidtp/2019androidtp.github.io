@@ -18,12 +18,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-Kr"
+title                    : "더치 - 더 정확한 위치찾기"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+subtitle                 : "더치 - 더 정확한 위치찾기"
+name                     : "더치"
+description              : "사용자들의 중간지점을 찾고 주변시설을 카카오톡으로 공유할 수 있는 어플리케이션"
 url                      : "https://2019androidtp.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -110,11 +110,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "더치 - 더 정확한 위치찾기"
+  avatar           : "https://lh3.googleusercontent.com/4frIX81A-k73NIh5CbJb8DBiFuoo3jseJxJhkdnPC-3Eo5nT2qxAULWPjiBtZwF3udY=s180-rw"
+  bio              : "사용자들의 중간지점을 찾고 주변시설을 카카오톡으로 공유할 수 있는 어플리케이션"
+  location         : "Sejong Univ, Seoul"
+  email            : "helios2sic@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
